@@ -6,8 +6,6 @@ A complete end-to-end **Machine Learning + Streamlit web app** that predicts whe
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.4-orange?logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Stars](https://img.shields.io/github/stars/your-username/Student-Placement-Prediction?style=social)
-
 ---
 
 ## 📖 Overview
@@ -282,12 +280,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
-
-**Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
-
----
+**Patel Bhargava**
 
 <p align="center">⭐ If you found this project useful, consider giving it a star! ⭐</p>
